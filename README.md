@@ -1,2 +1,2 @@
-# blog
+# Blog
 The project in my blog.
